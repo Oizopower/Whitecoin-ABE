@@ -1,0 +1,91 @@
+body {
+color:#000;
+margin:0 auto;
+padding:0;
+width:980px;
+height:auto;
+}
+
+body,a,td {
+font:13px Verdana,Tahoma,sans-serif
+}
+
+input,button,th {
+font:13px Verdana,Tahoma,sans-serif
+}
+
+p { line-height:24px;}
+
+hr { margin:5px 0 5px 0;}
+
+li { margin-bottom:10px;}
+
+button,th {
+font-weight:700
+}
+
+table {width:auto; height:auto; border-top:1px solid #CCC; border-left:1px solid #CCC;}
+
+td {
+border-bottom:1px solid #CCC; border-right:1px solid #CCC; padding:5px 5px;
+}
+
+
+th {
+border-bottom:1px solid #CCC; border-right:1px solid #CCC; padding:10px 11px;text-align:left; background-color:#666; color:#fff;
+}
+
+th a:link,td a:visited {color:#FFF;}
+td a:link,td a:visited {color:#5C8687;}
+
+td a:hover {
+color:#000
+}
+
+button,input {
+border:1px solid #CCC;
+}
+
+h1 {
+/*line-height:0;*/
+margin:12px 0 0 0;
+color:#5C8687;
+}
+
+h1,h1 a:link,h1 a:visited {
+font-size:41px;
+font-weight:500
+}
+
+h1,a,td a:hover,button {
+
+}
+
+a:link,a:visited {
+color: #5C8687;
+text-decoration:none
+}
+
+a:hover {
+color: #5C8687;
+}
+
+input {
+margin:0 0 6px 0;
+padding:0 0 0 4px;
+width:520px;
+background-color:#ccc;
+}
+
+button {
+background:#666;
+color:#FFF;
+cursor:pointer;
+margin:2px 0 0 5px;
+padding:2px 4px 5px 4px
+}
+
+input,button {
+border:0;
+height:24px
+}

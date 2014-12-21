@@ -370,7 +370,7 @@ class Hirocoin(X11Chain):
 class WhiteCoin(NvcChain):
     def __init__(chain, **kwargs):
         chain.name = 'Whitecoin'
-        chain.code3 = 'WC'
+        chain.code3 = 'XWC'
         chain.address_version = "\x49"
         chain.magic = "\xfe\xf5\xab\xaa"     
         # chain.decimals = 6
